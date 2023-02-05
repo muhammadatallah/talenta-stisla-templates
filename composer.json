@@ -30,7 +30,7 @@
     },
     "extra": {
         "installer-paths": {
-            "vendor/{$name}/": ["type:{$type}"]
+            "vendor/infyomlabs/stisla-templates": ["type:library"]
           },
         "laravel": {
             "providers": [
