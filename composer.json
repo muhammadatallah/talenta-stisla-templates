@@ -29,6 +29,9 @@
         }
     },
     "extra": {
+        "installer-paths": {
+            "vendor/{$name}/": ["type:{$type}"]
+          },
         "laravel": {
             "providers": [
                 "\\InfyOm\\StislaTemplates\\StislaTemplatesServiceProvider"
