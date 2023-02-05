@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/stisla-templates",
+    "name": "talenta-eg/stisla-templates",
     "type": "library",
     "description": "Stisla templates for InfyOm Laravel Generator",
     "keywords": [
@@ -14,8 +14,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Muhammad Atallah",
+            "email": "m.atallah@talenta.com.co"
         }
     ],
     "require": {
